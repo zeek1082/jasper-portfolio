@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Billo Dream';
+    src: url('/fonts/BilloDream.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  .billo-font {
+    font-family: 'Billo Dream', sans-serif;
+  }
