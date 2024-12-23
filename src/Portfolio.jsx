@@ -32,7 +32,7 @@ const AboutPage = () => {
             className="relative"
           >
             <img
-              src="src/assets/meow.png"
+              src="/jasper-portfolio/assets/meow.png"
               alt="Character Illustration"
               className="relative z-10 rounded-2xl"
             />
