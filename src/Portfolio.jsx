@@ -182,43 +182,43 @@ const TraditionalArtPage = () => {
   const images = [
     { 
       id: 5, 
-      src: '/src/assets/sketch.png',
+      src: '/jasper-portfolio/assets/sketch.png',
       title: 'Character Portrait',
       description: 'Traditional-style portrait with a modern digital twist.'
     },
     { 
       id: 9, 
-      src: '/src/assets/gojo.png',
+      src: '/jasper-portfolio/assets/gojo.png',
       title: 'Jump Animation',
       description: 'Dynamic pose study focusing on movement and energy in illustration.'
     },
     { 
       id: 10, 
-      src: '/src/assets/castiel.png',
+      src: '/jasper-portfolio/assets/castiel.png',
       title: 'Animation Frame',
       description: 'Part of a series exploring movement and character expression.'
     },
     { 
       id: 11, 
-      src: '/src/assets/curlyguy.png',
+      src: '/jasper-portfolio/assets/curlyguy.png',
       title: 'Character Portrait',
       description: 'Traditional-style portrait with a modern digital twist.'
     },
     { 
       id: 12, 
-      src: '/src/assets/gojo2.png',
+      src: '/jasper-portfolio/assets/gojo2.png',
       title: 'Wildlife Study',
       description: 'Detailed wildlife illustration focusing on texture and form.'
     },
     { 
       id: 17, 
-      src: '/src/assets/squatty.png',
+      src: '/jasper-portfolio/assets/squatty.png',
       title: 'Animation Frame',
       description: 'Part of a series exploring movement and character expression.'
     },
     { 
       id: 19, 
-      src: '/src/assets/kiyoshi.png',
+      src: '/jasper-portfolio/assets/kiyoshi.png',
       title: 'Animation Frame',
       description: 'Part of a series exploring movement and character expression.'
     },
@@ -293,67 +293,67 @@ const DigitalArtPage = () => {
   const images = [
     { 
       id: 1, 
-      src: '/src/assets/cassian.png',
+      src: '/jasper-portfolio/assets/cassian.png',
       title: 'Fox Portrait',
       description: 'A detailed digital painting exploring light and shadow through a monochromatic palette.'
     },
     { 
       id: 2, 
-      src: '/src/assets/jasper-sketch.png',
+      src: '/jasper-portfolio/assets/jasper-sketch.png',
       title: 'Character Study',
       description: 'Quick character sketch exploring personality through minimal line work.'
     },
     { 
       id: 3, 
-      src: '/src/assets/jaspy.png',
+      src: '/jasper-portfolio/assets/jaspy.png',
       title: 'Jump Animation',
       description: 'Dynamic pose study focusing on movement and energy in illustration.'
     },
     { 
       id: 4, 
-      src: '/src/assets/deanie-weanie.png',
+      src: '/jasper-portfolio/assets/deanie-weanie.png',
       title: 'Animation Frame',
       description: 'Part of a series exploring movement and character expression.'
     },
     { 
       id: 6, 
-      src: '/src/assets/spidey.png',
+      src: '/jasper-portfolio/assets/spidey.png',
       title: 'Wildlife Study',
       description: 'Detailed wildlife illustration focusing on texture and form.'
     },
     { 
       id: 7, 
-      src: '/src/assets/klaus.png',
+      src: '/jasper-portfolio/assets/klaus.png',
       title: 'Fox Portrait',
       description: 'A detailed digital painting exploring light and shadow through a monochromatic palette.'
     },
     { 
       id: 8, 
-      src: '/src/assets/spidey2.png',
+      src: '/jasper-portfolio/assets/spidey2.png',
       title: 'Character Study',
       description: 'Quick character sketch exploring personality through minimal line work.'
     },
     { 
       id: 13, 
-      src: '/src/assets/guy.png',
+      src: '/jasper-portfolio/assets/guy.png',
       title: 'Wildlife Study',
       description: 'Detailed wildlife illustration focusing on texture and form.'
     },
     { 
       id: 14, 
-      src: '/src/assets/eye.png',
+      src: '/jasper-portfolio/assets/eye.png',
       title: 'Fox Portrait',
       description: 'A detailed digital painting exploring light and shadow through a monochromatic palette.'
     },
     { 
       id: 15, 
-      src: '/src/assets/miguel.png',
+      src: '/jasper-portfolio/assets/miguel.png',
       title: 'Character Study',
       description: 'Quick character sketch exploring personality through minimal line work.'
     },
     { 
       id: 16, 
-      src: '/src/assets/5.png',
+      src: '/jasper-portfolio/assets/5.png',
       title: 'Jump Animation',
       description: 'Dynamic pose study focusing on movement and energy in illustration.'
     },
@@ -453,7 +453,7 @@ const HomePage = ({ setCurrentPage }) => (  // Add setCurrentPage as a prop
 
             <div className="overflow-hidden">
               <img
-                src="/src/assets/jaspy.png"
+                src="/jasper-portfolio/assets/jaspy.png"
                 alt="Profile"
                 className="w-full h-[600px] object-cover"
               />
